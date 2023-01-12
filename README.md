@@ -2,6 +2,7 @@
 
 [작동 영상 : Youtube](https://www.youtube.com/watch?v=c-hRML66dDU)  
 [참고 : 기술 블로그](https://kdjun97.github.io/iot/auto-led-control-with-oled/)  
+[참고 : 회로 재설계(점퍼 선 재배열)](https://kdjun97.github.io/iot/auto-led-circuit-design/)  
 
 `기능`  
 1. 1초마다 LED가 깜빡거림.
